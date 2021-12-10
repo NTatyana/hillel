@@ -1,0 +1,13 @@
+
+body {
+    background: azure;
+}
+
+#welcome {
+    max-width: 500px;
+    width: auto;
+    margin: auto;
+    padding: 20px 0;
+    
+    color: deeppink;
+}
